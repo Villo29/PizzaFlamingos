@@ -25,7 +25,7 @@ public class Main {
         byte opcion=0;
 
         System.out.println("");
-        System.out.println("Flamingos Pizza´s");
+        System.out.println("Flamingos Pizzas");
 
         do {
 
