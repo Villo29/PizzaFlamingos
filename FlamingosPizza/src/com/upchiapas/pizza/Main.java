@@ -11,7 +11,7 @@ public class Main {
         Scanner teclado = new Scanner(System.in);
 
         CatalogoPizza catalogo = new CatalogoPizza();
-        String[] nombre = {"4 quesos", "Mexicana", "Hawaina", "Peperoni"};
+        String[] nombre = {"4 quesos", "Hawaina", "Mexicana", "Peperoni"};
         OrdenCompra nombrePedido[] = new OrdenCompra[2];
         ItemCompra cantidadOrden[] = new ItemCompra[2];
 
@@ -75,7 +75,7 @@ public class Main {
             }
         }while(opcion!=4);
         System.out.println("");
-        System.out.println("Terminamos el programa");
+        System.out.println("Termina el programa");
     }
 
 
